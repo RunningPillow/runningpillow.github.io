@@ -1,4 +1,8 @@
-- 👋 Hi, @RunningPillow is indie game studio!
+- 👋 Hi, we are am indie game studio!
+- With any issue you can contact us at our active Discrod! https://discord.gg/2AUcDgRY88
+- You can also contact us through email at runningpillow"snake"gmail.com
+- Take care
+- Running Pillow Team
 
 
 <!---
